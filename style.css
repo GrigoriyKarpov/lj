@@ -1,0 +1,32 @@
+body {
+background: #2A1A14 !important;
+}
+
+.sidebar-powered, .cornerz {
+display: none !important;
+visibility: hidden !important;
+opacity: 0 !important;
+}
+
+.sidebar-inner {
+margin-top: 25px !important;
+border: 1px solid #FFF !important;
+background: #292929 !important;
+border-radius: 40px 0 0 40px !important;
+}
+
+.entry-wrap {
+border-radius: 40px 40px 40px 40px !important;
+}
+
+.entry {
+padding: 40px 20px 40px 20px !important;
+}
+
+.header {
+margin-top: 25px !important;
+background: #292929 !important;
+border: 1px solid #FFF !important;
+border-radius: 40px 40px 40px 40px !important;
+padding: 0 20px 0 20px !important;
+}
